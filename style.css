@@ -1,0 +1,66 @@
+/* TODO: design your profile with CSS */
+h1
+{
+  color:#26408B;
+  text-align: center;
+}
+
+.img-circle
+{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+.card
+{
+background-color: white;
+padding: 30px;
+box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+margin: 20px auto;
+text-align: center;
+width: 50%;
+
+}
+
+.center
+{
+  margin: 0 auto;
+}
+
+.btn
+{
+  background-color: #6B72E1;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+  margin-bottom: 30px;
+}
+
+.text-pres
+{
+  margin-bottom: 30px;
+}
+
+.social
+{
+  list-style: none;
+}
+
+.social-class
+{
+  display: inline-block;
+}
+
+
+a
+{
+  text-decoration: none;
+}
+
+a:hover{
+  color:black;
+}
+
